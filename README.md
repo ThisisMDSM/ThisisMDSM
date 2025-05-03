@@ -1,3 +1,5 @@
+
+![Profile Picture](https://avatars.githubusercontent.com/u/210110276?v=4&size=64)
 # About Me  
 
 I am an **Ex-Cyber Forensic and Security Professional** with over **5 years** of experience in cybersecurity and digital investigations. Now, I am channeling my expertise into establishing a **cutting-edge tech and software development company**, where I craft innovative solutions to push the boundaries of technology.  
